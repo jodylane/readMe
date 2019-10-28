@@ -23,3 +23,10 @@ I am very easy to work with as long as you
 5. Don't fail silently if you have "hit a wall" and get stuck ask for help, however I am not your personal wikipedia on how to program, if you haven't at least tried to figure it out on your own I will feel less inclined to help you. Especially if you are a frequent abuser to this rule. With that said I absolutely love to help & mentor those who need but I refuse to help those who don't try to help themselves.
 6. Challenge my ideas & work with me to come up with new solutions to our problems.
 7. If you have a problem with me personally or with work. Talk to me. We can't work on fixing bugs if no one reports an issue, in other words I am not a mind reader and I am a busy person, so if there are issues you want addressed make them known and I will work on them.
+
+## Personality Test
+<img width="954" alt="Screen Shot 2019-10-28 at 3 10 37 PM" src="https://user-images.githubusercontent.com/19368093/67710061-9e224480-f995-11e9-9d54-83e68f54e064.png">
+
+[INTJ Personality Types](https://www.16personalities.com/intj-personality)
+[INTJ Strengths & Weaknesses](https://www.16personalities.com/intj-strengths-and-weaknesses)
+Test taken at [16Personalities](https://www.16personalities.com)
