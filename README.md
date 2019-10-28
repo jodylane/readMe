@@ -1,9 +1,12 @@
 # readMe
-My Design Philosophy Diagram
-<img width="958" alt="Screen Shot 2019-10-28 at 2 05 27 PM" src="https://user-images.githubusercontent.com/19368093/67704907-5fd45780-f98c-11e9-8c59-a4e0b1f0d991.png">
+## My Design Philosophy
 [My Design Philosphy Explained](https://docs.google.com/document/d/1nYqmKI8LrRwu2MgF7V94jdfi08eBPhD_WI8iwIdYotI/edit?usp=sharing "My Design Philosphy")
+<img width="958" alt="Screen Shot 2019-10-28 at 2 05 27 PM" src="https://user-images.githubusercontent.com/19368093/67704907-5fd45780-f98c-11e9-8c59-a4e0b1f0d991.png">
+Diagram of My Design Philosophy
 
-My General Programming Philosophy to help explain a large portion of my feedback when it comes to new projects   
+
+## My General Programming Philosophy
+to help explain a large portion of my feedback & strategy when it comes to new projects, here are some of the philosophies / theories I follow from a programming perspective.  
 [The rule of Three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))  
 [Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  
 [You Aren't Going To Need It](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)  
@@ -11,7 +14,7 @@ My General Programming Philosophy to help explain a large portion of my feedback
 Keeping a [Separation of Concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)  
 Avoid [Feature Creep](https://en.wikipedia.org/wiki/Feature_creep) & [Overengineering](https://en.wikipedia.org/wiki/Overengineering)
 
-How To Work With Me
+## How To Work With Me
 I am very easy to work with as long as you 
 1. Treat myself &  other's with respect.
 2. Give constructive feedback to myself & others.
