@@ -27,6 +27,6 @@ I am very easy to work with as long as you
 ## Personality Test
 <img width="954" alt="Screen Shot 2019-10-28 at 3 10 37 PM" src="https://user-images.githubusercontent.com/19368093/67710061-9e224480-f995-11e9-9d54-83e68f54e064.png">
 
-[INTJ Personality Types](https://www.16personalities.com/intj-personality)
-[INTJ Strengths & Weaknesses](https://www.16personalities.com/intj-strengths-and-weaknesses)
+[INTJ Personality Types](https://www.16personalities.com/intj-personality)  
+[INTJ Strengths & Weaknesses](https://www.16personalities.com/intj-strengths-and-weaknesses)  
 Test taken at [16Personalities](https://www.16personalities.com)
