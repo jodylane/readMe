@@ -1,5 +1,5 @@
 ## My Design Philosophy
-[My Design Philosphy Explained](https://docs.google.com/document/d/1nYqmKI8LrRwu2MgF7V94jdfi08eBPhD_WI8iwIdYotI/edit?usp=sharing "My Design Philosphy")
+[My Design Philosphy Explained](https://docs.google.com/document/d/1rG3T5ANVCuMG7GsWuqFoqE5IKklEnDO9XLPVI_u2O_Y/edit?usp=sharing "My Design Philosphy")
 <img width="958" alt="Screen Shot 2019-10-28 at 2 05 27 PM" src="https://user-images.githubusercontent.com/19368093/67704907-5fd45780-f98c-11e9-8c59-a4e0b1f0d991.png">
 Diagram of My Design Philosophy
 
